@@ -1,0 +1,141 @@
+10
+
+dir
+91
+svn://svn.code.sf.net/p/tuxguitar-fork/code/trunk/TuxGuitar/src/org/herac/tuxguitar/gui
+svn://svn.code.sf.net/p/tuxguitar-fork/code
+
+
+
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1a24bd73-ce44-42de-bc80-594b5cd920a0
+
+helper
+dir
+
+marker
+dir
+
+items
+dir
+
+printer
+dir
+
+system
+dir
+
+mixer
+dir
+
+table
+dir
+
+help
+dir
+
+transport
+dir
+
+clipboard
+dir
+
+TGMain.java
+file
+
+
+
+
+2013-04-22T04:47:54.000000Z
+690123659bb483f134f104837810c23c
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+165
+
+tools
+dir
+
+actions
+dir
+
+undo
+dir
+
+editors
+dir
+
+TuxGuitar.java
+file
+
+
+
+
+2013-04-22T04:47:54.000000Z
+651826bce8fec6b67d09f1ad32d9e5b2
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22240
+
+util
+dir
+

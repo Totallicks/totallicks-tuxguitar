@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="/TuxGuitar" kind="src"/>
+	<classpathentry path="/home/peter/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_3.2.0.v3232m.jar" kind="lib"/>
+	<classpathentry path="bin" kind="output"/>
+</classpath>

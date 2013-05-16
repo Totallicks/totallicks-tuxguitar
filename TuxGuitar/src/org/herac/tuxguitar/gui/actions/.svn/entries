@@ -1,0 +1,218 @@
+10
+
+dir
+91
+svn://svn.code.sf.net/p/tuxguitar-fork/code/trunk/TuxGuitar/src/org/herac/tuxguitar/gui/actions
+svn://svn.code.sf.net/p/tuxguitar-fork/code
+
+
+
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1a24bd73-ce44-42de-bc80-594b5cd920a0
+
+file
+dir
+
+effects
+dir
+
+marker
+dir
+
+system
+dir
+
+edit
+dir
+
+duration
+dir
+
+help
+dir
+
+ActionManager.java
+file
+
+
+
+
+2013-04-22T04:47:53.000000Z
+77872e451c2b9d053c609289f1b0a8a2
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16347
+
+transport
+dir
+
+Action.java
+file
+
+
+
+
+2013-04-22T04:47:53.000000Z
+31e2cb74c010d345c0ca20da6076519f
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3125
+
+caret
+dir
+
+ActionAdapter.java
+file
+
+
+
+
+2013-04-22T04:47:53.000000Z
+cf4e9c2b5194f4fd555fcb9024e2a7ef
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1882
+
+settings
+dir
+
+tools
+dir
+
+measure
+dir
+
+composition
+dir
+
+track
+dir
+
+insert
+dir
+
+note
+dir
+
+ActionLock.java
+file
+
+
+
+
+2013-04-22T04:47:53.000000Z
+ab015a723a53518e660c92a279b33638
+2011-08-05T01:40:29.111700Z
+1
+b4dc0d3r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+532
+
+view
+dir
+
+layout
+dir
+
